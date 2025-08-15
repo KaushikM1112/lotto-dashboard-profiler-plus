@@ -1,2 +1,1 @@
-# lotto-dashboard-profiler-plus
-Prediction Model Simulations
+# Lotto Dashboard with Profiler (Window + Gaps)\n\nRun with:\n\n````\npip install -r requirements.txt\nstreamlit run app.py\n````\n
